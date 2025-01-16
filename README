@@ -1,0 +1,88 @@
+# Challenge ONE | Back End | Foro Alura 
+
+### ¡Bienvenido al proyecto con las clases base del desafío Foro Alura con Java y Spring! 
+
+
+### Pasos principales:
+
+#### ⭐Marca este proyecto con una estrella 
+
+#### 📚Sigue las lecciones y las instrucciones de contenido 
+
+#### 📃Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-back-end/aluraforo) 
+
+
+
+- ### Tecnologías utilizadas:
+
+  - [Eclipse](https://www.eclipse.org/)
+  - [MySql](https://www.mysql.com/)
+  - [Java](https://www.java.com/en/)
+
+  - [Spring Security](https://start.spring.io/)
+  - [Token JWT](https://jwt.io/)
+
+  
+
+  ## ⬇️ Download
+
+  ### ¿Cómo descargar?
+
+  #### 🔹 Fork
+
+  1. Haga el **Fork** del proyecto. En la parte superior derecha, al hacer clic en el icono, creará un repositorio del proyecto en su cuenta personal de GitHub.
+
+
+
+  2. Después de tener el repositorio "forkado" para su cuenta, verifica si la url de la página es la del repositorio de su cuenta.
+
+
+
+  3. Haga clic en la opción **Code**. Presenta tres formas para instalar el repositorio en su máquina, y destacamos dos:
+
+
+#### 🔹 Clonar o descargar el ZIP
+
+1 - Para clonar, simplemente copia el <em>url</em> resaltado en la imagen y ubicado justo debajo del HTTPS, crea una carpeta en tu computadora, abre el <em>cmd</em> o el <em>git bash</em> dentro de esa carpeta y luego ingresa el comando <strong>git clone</strong> y con el botón derecho del mouse dentro del terminal haz click en la opcion <strong>Paste</strong> para pegar el <em>url</em> y presiona <em>Enter</em>. 
+
+2 - La segunda opción es descargar el código en un paquete <strong>"zipado"</strong> y extraer la carpeta a tu computadora.
+
+## 📝 Eclipse
+
+### ¿Cómo importar mi proyecto a Eclipse?
+
+1 - Una vez dentro del Editor al lado izquierdo, haz clic en el <em>Files</em> que está en el menú en la parte superior, elige la opción <em>Open Projects from File System</em>.
+
+
+Luego haz click en <em>Directory</em> y ubica el directorio del proyecto "clonado" o "extraído" en tu computadora. Haz click en <em>Finish</em> para completar la importación.
+
+
+2 - La segunda forma de importar es en <em>File</em> en la opción <em>Import</em>. O a través del <strong>Project Explorer</strong> haz clic en el campo vacío con el botón derecho del mouse y elijas la opción <strong>Import</strong>.
+
+
+Si te decides por el <strong>Import</strong>, se abrirá la ventana correspondiente. Haz clic en la opción <em>Existing Projects Into Workspace</em> y en el botón <em>Next</em>.
+
+
+Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio local.
+
+
+## 🚧¿Cómo incluir mi proyecto en este Challenge?
+
+1. Publicar el proyecto en GitHub;
+2. Utiliza el tema/topic:
+   - *Grupo 5: **challengeforoalura5**;*
+   - Ve a la pestaña "`Acerca`" o `"About"` de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub Incluye la etiqueta *"**challengeforoalura5**"*.
+
+
+## 📬¿Cómo hago la entrega final de mi proyecto?
+
+1. Coloca tus datos en el formulario de entrega con el **link del proyecto publicado en GitHub** 
+🔹 [Enlace al fomulario](https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp-back-end)
+
+2. Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
+
+3. ¡No olvides publicar un link o un vídeo de tu proyecto en [Linkedin](https://www.linkedin.com/company/alura-latam/mycompany/)! 🏁
+
+💙 Alura Latam
+
+
